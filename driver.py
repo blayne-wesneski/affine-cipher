@@ -1,7 +1,9 @@
-# Author: Blayne Wesneski
-# Date: 08/31/23
-# Description: This script allows the user to either encrypt or decrypt text using an affine cipher.
-
+"""
+Program Name: Affine Cipher
+Author: Blayne Wesneski
+Date: August 31st, 2023
+Description: This program allows the user to either encrypt or decrypt text using an affine cipher.
+"""
 from encrypt import encrypt
 from decrypt import *
 
